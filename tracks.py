@@ -13,7 +13,7 @@ tracks = [
     "2017 - 9mice, KAI ANGEL",
     "double rr - doxxxelll",
     "SHOW OFF - KAI ANGEL",
-    "АНТИГЕРОЙ - КРЕСТ",
+    "АНТИГЕРОЙ - КРЕСТ"
 ]
 def get_track():
     """Возвращает случайный трек из списка."""
